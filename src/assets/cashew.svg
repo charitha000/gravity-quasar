@@ -1,0 +1,9 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<radialGradient id="cashewGrad" cx="0" cy="0" r="1">
+<stop offset="0.2" stop-color="#FFFAE6"/>
+<stop offset="1" stop-color="#F4C430"/>
+</radialGradient>
+</defs>
+<path d="M250,150 C320,150 360,200 360,260 C360,320 320,380 250,380 C180,380 140,320 140,260 C140,200 180,150 250,150 Q280,150 280,180 Q280,210 250,210 C220,210 200,240 200,280 C200,320 220,350 250,350 C280,350 300,320 300,280 C300,240 280,210 250,210 Q220,210 220,180 Q220,150 250,150 Z" fill="url(#cashewGrad)" transform="translate(20,0)"/>
+</svg>
